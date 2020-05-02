@@ -1,4 +1,4 @@
-# Pandas_Demo
+# Pandas_Demo using JupyterNotebook
 Hands script and steps on Pandas library
 In this demo, I demonstrated basic Pandas ability such as:
 filtering - including conditions and sorting 
